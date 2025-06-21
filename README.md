@@ -42,7 +42,8 @@ This project analyzes over **200,000+ coffee bean sales records** using **Micros
 
 > Add a screenshot if you have one:
 
-![Dashboard Preview](<img width="643" alt="image" src="https://github.com/user-attachments/assets/81798730-89f4-4689-aad1-82b969f868b4" />)
+![Dashboard Preview]
+(<img width="643" alt="image" src="https://github.com/user-attachments/assets/81798730-89f4-4689-aad1-82b969f868b4" />)
 
 ---
 
@@ -92,16 +93,6 @@ This project analyzes over **200,000+ coffee bean sales records** using **Micros
 - Repeat purchase rate was significantly higher among **premium customers**
 - Seasonal trends showed spikes in purchases during Q4 (gift season)
 - Certain regions had higher average spend per transaction, helping tailor regional marketing
-
----
-
-## 📊 Dashboard Preview
-
-> Add a screenshot if available:
-
-![Dashboard Preview](<img width="583" alt="image" src="https://github.com/user-attachments/assets/63e2d5ea-46d0-41bc-91dc-197715232e9f" />
-
-)
 
 ---
 
