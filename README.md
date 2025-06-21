@@ -40,11 +40,10 @@ This project analyzes over **200,000+ coffee bean sales records** using **Micros
 
 ## 📊 Dashboard Preview
 
-> Add a screenshot if you have one:
 
-![Dashboard Preview]
-(<img width="583" alt="image" src="https://github.com/user-attachments/assets/f9385732-c18a-478d-b0c3-de3002ed5dab" />
-)
+
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/f9385732-c18a-478d-b0c3-de3002ed5dab" />
+
 
 ---
 
