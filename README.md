@@ -1,4 +1,4 @@
-# Coffee_Bean_Sales_Dashboard    <img width="643" alt="image" src="https://github.com/user-attachments/assets/81798730-89f4-4689-aad1-82b969f868b4" />
+# Coffee_Bean_Sales_Dashboard   
 
 # ☕ Coffee Beans Sales Analysis Dashboard
 
